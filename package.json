@@ -16,6 +16,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "postinstall": "patch-package",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
